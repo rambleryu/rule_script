@@ -1,4 +1,4 @@
-# rule_script
+# readme
 ; “;” “#”为注释符号，去掉此类符号，该行才会生效。
 ; 图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
 ; 引用神机, blackmatrix7和lhie1重写规则, KOP-XIAO的geo-checker js脚本, ip-api数据库, Mazeorz整合的网易云音乐解锁, GeQ1an部分去广告规则
