@@ -1,5 +1,5 @@
 # readme
-; “;” “#”为注释符号，去掉此类符号，该行才会生效。
+“;” “#”为注释符号，去掉此类符号，该行才会生效。
 
 图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
 
